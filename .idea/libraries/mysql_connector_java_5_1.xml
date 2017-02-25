@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="mysql-connector-java-5.1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Desktop/Java/Hibernate/mysql-connector-java-5.1.39" />
+      <root url="file://$USER_HOME$/Desktop/Java/Hibernate/hibernate-course-source-code/hibernate-demo/hibernate-tutorial/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Desktop/Java/Hibernate/mysql-connector-java-5.1.39/src" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Desktop/Java/Hibernate/hibernate-course-source-code/hibernate-demo/hibernate-tutorial/lib" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/Java/Hibernate/mysql-connector-java-5.1.39" recursive="false" />
+  </library>
+</component>
